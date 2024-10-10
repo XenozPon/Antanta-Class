@@ -85,7 +85,7 @@ nav{
     bottom: 300px;
     filter: drop-shadow(2px 2px 50px black);
     font-family: "Edu AU VIC WA NT Guides", cursive;
-  font-optical-sizing: auto;
+  font-optical-sizing: auto;    
   font-weight: lighter;
   font-style: normal;
 }
